@@ -35,3 +35,15 @@ ROOT
 └── code
     └── GSIEA
 ```
+## Citation
+```
+@article{GSIEA,
+   author = {Zhang, Yan and Luo, Xiangyu and Hu, Jing and Zhang, Miao and Xiao, Kui and Li, Zhifei},
+   title = {Graph structure prefix injection transformer for multi-modal entity alignment},
+   journal = {Information Processing & Management},
+   volume = {62},
+   number = {3},
+   pages = {104048},
+   year = {2025}
+}
+```
